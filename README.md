@@ -13,3 +13,4 @@ rails db:migrate
 rails db:seed
 rails server
 ```
+# blog_backend_app
